@@ -1,0 +1,7 @@
+# Abaikan file konfigurasi XAMPP
+/xampp/
+*.log
+*.tmp
+# Abaikan folder atau file lain yang tidak relevan
+/vendor/  # Jika menggunakan Composer
+/.idea/   # Jika menggunakan IDE seperti PhpStorm
